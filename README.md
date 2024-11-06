@@ -29,7 +29,5 @@ I'm constantly expanding my knowledge in:
 ## 💬 Ask Me About
 Anything related to machine learning, autonomous robotics, video processing! I love tackling challenging problems and am always excited to share insights or collaborate.
 
-## 📈 GitHub Stats
-![Jivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JivanKesan&show_icons=true&theme=radical)
 
 ---
