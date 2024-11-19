@@ -12,12 +12,12 @@ Here's a snapshot of the tools and technologies I frequently work with:
 - **Tools:** Docker, Git, Jupyter, Linux, MATLAB, Minitab, Conda, Jira
 
 ## 🔭 Current Projects
-- **👀 VideoMamba Framework:** Segmenting and storing action-detecting videos in vector databases for smart homes.
-- **🚗 Autonomous Behavior Planning:** Developing decision and behaviour frameworks/simulations for safe and efficient autonomous navigation in unpredictable environments.
+- ** VideoMamba Framework:** Segmenting and storing action-detecting videos in vector databases for smart homes.
+- ** Autonomous Behavior Planning:** Developing decision and behaviour frameworks/simulations for safe and efficient autonomous navigation in unpredictable environments.
 
 ## 🌱 I'm Learning
 I'm constantly expanding my knowledge in:
-- Multimodal Machine Learning
+- Multimodal AI
 - Edge AI for embedded systems
 - Autonomous Robotics
 
@@ -25,9 +25,6 @@ I'm constantly expanding my knowledge in:
 - LinkedIn: [linkedin.com/in/jivankesan](https://linkedin.com/in/jivankesan)
 - GitHub: [github.com/JivanKesan](https://github.com/JivanKesan)
 - Email: jkesan@uwaterloo.ca
-
-## 💬 Ask Me About
-Anything related to machine learning, autonomous robotics, video processing! I love tackling challenging problems and am always excited to share insights or collaborate.
 
 
 ---
